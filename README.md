@@ -1,3 +1,5 @@
+⚠️ **This project is no longer maintained**
+
 # WHMCS Cloudflare IP Sync Addon
 WHMCS addon module to sync [Cloudflare IPs](https://www.cloudflare.com/ips/) with WHMCS trusted proxies.
 
